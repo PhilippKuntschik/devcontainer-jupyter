@@ -1,0 +1,4 @@
+# jupyter notebook
+ipython==8.26.0
+ipykernel==6.29.5
+nbstripout==0.7.1
